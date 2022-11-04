@@ -15,6 +15,15 @@
 <p>
     É uma ótima opção para projetos menores em que você não precisa contar com todos os recursos do VueJS, mas mesmo assim você gostaria de construir uma página reativa.
 </p>
+
+<p>
+    Acesse o  <a href="https://jogomonstro.maiconsouza.com.br/">Projeto</a> 
+</p>
+
+<p>
+    Acesse o meu  <a href="https://portfolio.maiconsouza.com.br/">Portfólio</a> 
+</p>
+
 <img 
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/projeto-monstro/rodando.gif"
 />
